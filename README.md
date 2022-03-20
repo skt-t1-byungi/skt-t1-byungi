@@ -1,5 +1,4 @@
 ### I'm ~
-- using `Byungi` as my nickname.
 - currently working on Kakao Enterprise.
 - mostly working with JavaScript
 
