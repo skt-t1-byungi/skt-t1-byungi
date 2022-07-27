@@ -1,5 +1,5 @@
 ### I'm ~
-- currently working on Woowahan brothers. (Previously Kakao Enterprise)
+- currently working on WoowahanBrothers. (Previously Kakao Enterprise)
 - mostly working with JavaScript
 
 ### Links
